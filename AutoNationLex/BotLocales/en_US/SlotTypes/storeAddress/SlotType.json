@@ -1,0 +1,1 @@
+{"name":"storeAddress","identifier":"JYQMNRYPC1","description":"Address of the store","slotTypeValues":[{"sampleValue":{"value":"120 116th Avenue NE"},"synonyms":null}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"regexFilter":null,"resolutionStrategy":"ORIGINAL_VALUE"}}

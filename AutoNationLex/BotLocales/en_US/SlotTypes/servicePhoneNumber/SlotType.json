@@ -1,0 +1,1 @@
+{"name":"servicePhoneNumber","identifier":"EC0SKWICIP","description":"Phone number of the store","slotTypeValues":[{"sampleValue":{"value":"serviceNumber"},"synonyms":null}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"regexFilter":null,"resolutionStrategy":"ORIGINAL_VALUE"}}
